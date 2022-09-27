@@ -18,6 +18,10 @@
 
 | Speaker    | Tone        | Transcript | Audio      |
 | -----------| ----------- |----------- |----------- |
+| Speaker1   | Certain     |The nearest planet to the sun is Mercury.|https://user-images.githubusercontent.com/52312216/190532769-15ab0217-965d-4ef2-95d9-a25e9c231504.mp4|
+| Speaker1   | Uncertain   |The nearest planet to the sun is Mercury.|https://user-images.githubusercontent.com/52312216/190532907-39971ab4-6c3f-48aa-85d8-e4c119013b60.mp4|
+| Speaker1   | Neutral     |The nearest planet to the sun is Mercury.|https://user-images.githubusercontent.com/52312216/190532923-40c77c16-deb7-4d92-b2a4-5d06d78c0d19.mp4|
+| | | | |
 | | | | |
 | Speaker3   | Certain     |The longest river is the Nile. |https://user-images.githubusercontent.com/52312216/190533888-91eafa8e-827b-430b-a0cc-895d771548a4.mp4|
 | Speaker3   | Uncertain   |The longest river is the Nile. |https://user-images.githubusercontent.com/52312216/190533925-89c212c5-9052-4ba5-a71c-1e755f633157.mp4|
