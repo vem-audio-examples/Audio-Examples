@@ -3,14 +3,14 @@
 ### Short Utterances
 | Manipulation    | Audio        |
 | -----------| ----------- |
-|Original Audio| |
-|Flattened F0 Contour| |
-|Increasing Linear| |
-|Decreasing Linear| |
-|Convex| |
-|Concave| |
-|Cubic a>0| |
-|Cubic a<0| |
+|Original Audio| https://user-images.githubusercontent.com/52312216/192603133-1f391c6c-1adf-49ca-9d66-c34857fc622d.mp4|
+|Flattened F0 Contour| https://user-images.githubusercontent.com/52312216/192604105-b1833b99-f85f-4382-9bb8-df85a8c5335a.mp4|
+|Increasing Linear| https://user-images.githubusercontent.com/52312216/192604157-25a1f935-3348-47a9-9c1e-8b4f8ffac7f3.mp4|
+|Decreasing Linear| https://user-images.githubusercontent.com/52312216/192604167-c4ae2b72-9012-43dc-9a61-63608102ecdc.mp4|
+|Convex| https://user-images.githubusercontent.com/52312216/192604185-f84ac156-4323-4d46-878b-d57e7d5a515e.mp4|
+|Concave| https://user-images.githubusercontent.com/52312216/192604200-30b961d6-ee55-4b1b-ab8f-d688ff9103f1.mp4|
+|Cubic a>0| https://user-images.githubusercontent.com/52312216/192604216-461dc56d-55d0-4154-9bfd-724a5be40538.mp4|
+|Cubic a<0| https://user-images.githubusercontent.com/52312216/192604239-864f8a76-4e14-46f1-ae22-be932017349f.mp4|
 ### Medium Utterances
 
 
