@@ -1,16 +1,37 @@
 # Audio-Examples
 ## Audio Samples From Three Utterance Datasets
 ### Short Utterances
-| Manipulation    | Audio        |
-| -----------| ----------- |
-|Original Audio| https://user-images.githubusercontent.com/52312216/192603133-1f391c6c-1adf-49ca-9d66-c34857fc622d.mp4|
-|Flattened F0 Contour| https://user-images.githubusercontent.com/52312216/192604105-b1833b99-f85f-4382-9bb8-df85a8c5335a.mp4|
-|Increasing Linear| https://user-images.githubusercontent.com/52312216/192604157-25a1f935-3348-47a9-9c1e-8b4f8ffac7f3.mp4|
-|Decreasing Linear| https://user-images.githubusercontent.com/52312216/192604167-c4ae2b72-9012-43dc-9a61-63608102ecdc.mp4|
-|Convex| https://user-images.githubusercontent.com/52312216/192604185-f84ac156-4323-4d46-878b-d57e7d5a515e.mp4|
-|Concave| https://user-images.githubusercontent.com/52312216/192604200-30b961d6-ee55-4b1b-ab8f-d688ff9103f1.mp4|
-|Cubic a>0| https://user-images.githubusercontent.com/52312216/192604216-461dc56d-55d0-4154-9bfd-724a5be40538.mp4|
-|Cubic a<0| https://user-images.githubusercontent.com/52312216/192604239-864f8a76-4e14-46f1-ae22-be932017349f.mp4|
+| Speaker    | Gender|Transcript|Manipulation    | Audio        |
+| -----------| -----------| ----------- | -----------| ----------- |
+| Speaker1    |||Original Audio| https://user-images.githubusercontent.com/52312216/192603133-1f391c6c-1adf-49ca-9d66-c34857fc622d.mp4|
+| Speaker1    |Flattened F0 Contour| https://user-images.githubusercontent.com/52312216/192604105-b1833b99-f85f-4382-9bb8-df85a8c5335a.mp4|
+| Speaker1    |Increasing Linear| https://user-images.githubusercontent.com/52312216/192604157-25a1f935-3348-47a9-9c1e-8b4f8ffac7f3.mp4|
+| Speaker1    |Decreasing Linear| https://user-images.githubusercontent.com/52312216/192604167-c4ae2b72-9012-43dc-9a61-63608102ecdc.mp4|
+| Speaker1    |Convex| https://user-images.githubusercontent.com/52312216/192604185-f84ac156-4323-4d46-878b-d57e7d5a515e.mp4|
+| Speaker1    |Concave| https://user-images.githubusercontent.com/52312216/192604200-30b961d6-ee55-4b1b-ab8f-d688ff9103f1.mp4|
+| Speaker1    |Cubic a>0| https://user-images.githubusercontent.com/52312216/192604216-461dc56d-55d0-4154-9bfd-724a5be40538.mp4|
+| Speaker1    |Cubic a<0| https://user-images.githubusercontent.com/52312216/192604239-864f8a76-4e14-46f1-ae22-be932017349f.mp4|
+||||
+| Speaker2    |Original Audio| https://user-images.githubusercontent.com/52312216/192614183-7f828d11-9177-491c-8954-540281fe4bb9.mp4|
+| Speaker2    |Flattened F0 Contour| https://user-images.githubusercontent.com/52312216/192613873-bb7bb0b5-6549-460f-b821-847e99445f38.mp4|
+| Speaker2    |Increasing Linear| https://user-images.githubusercontent.com/52312216/192613827-c8e0a501-5b95-4559-aebe-4573a069224d.mp4|
+| Speaker2    |Decreasing Linear| https://user-images.githubusercontent.com/52312216/192613846-d07f8db5-bea9-4a7a-85c3-1f4f2f4d2676.mp4|
+| Speaker2    |Convex|https://user-images.githubusercontent.com/52312216/192613933-9cd64547-7e7b-4d7e-aae0-55e45da97426.mp4|
+| Speaker2    |Concave| https://user-images.githubusercontent.com/52312216/192613944-87d049f6-ae2d-4d10-a5fa-a679bb7c4c46.mp4|
+| Speaker2    |Cubic a>0| https://user-images.githubusercontent.com/52312216/192613903-bf38eb99-8a12-443c-a247-df47376a636f.mp4|
+| Speaker2    |Cubic a<0| https://user-images.githubusercontent.com/52312216/192613916-e58a0d83-1542-4d67-9763-40691a8a008d.mp4|
+
+||||
+| Speaker3    |Original Audio| https://user-images.githubusercontent.com/52312216/192617794-8027ed9c-c3e3-40a4-8a23-00ef7c47ec6d.mp4|
+| Speaker3    |Flattened F0 Contour| https://user-images.githubusercontent.com/52312216/192617329-e1aa9360-dcbe-464a-acaf-5ef86cf3ac28.mp4|
+| Speaker3    |Increasing Linear| https://user-images.githubusercontent.com/52312216/192617809-f708b814-2c07-4450-805e-67e5daebb962.mp4|
+| Speaker3    |Decreasing Linear|https://user-images.githubusercontent.com/52312216/192617823-aefed610-671e-45ba-9f33-2e1e437a19ae.mp4|
+| Speaker3    |Convex| https://user-images.githubusercontent.com/52312216/192617116-40ed0c62-4377-413e-a887-804d4a9daf65.mp4|
+| Speaker3    |Concave|https://user-images.githubusercontent.com/52312216/192617135-4b0ee4d2-d330-4776-a22b-ba0033fcd8b1.mp4|
+| Speaker3    |Cubic a>0| https://user-images.githubusercontent.com/52312216/192617270-cf3f4d59-d3bb-4c3b-9709-89504a2e6abf.mp4|
+| Speaker3    |Cubic a<0| https://user-images.githubusercontent.com/52312216/192617288-0121950b-b195-4b37-8260-5cb3d0d9cf57.mp4|
+
+
 ### Medium Utterances
 
 
