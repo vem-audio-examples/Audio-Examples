@@ -59,7 +59,7 @@ vxFUT6FzOkjoud4tBbdxI5wMkcfrWD87
 
 ### Medium Utterances
 | Label    | Gender|Transcript| Audio        |
-| -----------| -----------| ----------- | -----------| ----------- |
+| -----------| -----------| ----------- | -----------|
 |    1   |Male  | Queen Victoria｜https://user-images.githubusercontent.com/52312216/192652921-5400e6b9-a0ad-4fde-9451-be0d8cd4b401.mp4|
 |    1   |Female|Four hundred| https://user-images.githubusercontent.com/52312216/192652725-359e49da-46d3-41fe-8304-28ef2a108019.mp4|
 |    2   |Male| Four hundred|https://user-images.githubusercontent.com/52312216/192653464-434cb605-e502-4568-a79f-051702959fef.mp4|
