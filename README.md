@@ -26,9 +26,9 @@
 | Speaker3    |Female|No|Increasing Linear| https://user-images.githubusercontent.com/52312216/192617809-f708b814-2c07-4450-805e-67e5daebb962.mp4|
 | Speaker3    |Female|No|Decreasing Linear|https://user-images.githubusercontent.com/52312216/192617823-aefed610-671e-45ba-9f33-2e1e437a19ae.mp4|
 | Speaker3    |Female|No|Convex| https://user-images.githubusercontent.com/52312216/192617116-40ed0c62-4377-413e-a887-804d4a9daf65.mp4|
-| Speaker3    |Male|Yes|Concave|https://user-images.githubusercontent.com/52312216/192617135-4b0ee4d2-d330-4776-a22b-ba0033fcd8b1.mp4|
-| Speaker3    |Male|Yes|Cubic a>0| https://user-images.githubusercontent.com/52312216/192617270-cf3f4d59-d3bb-4c3b-9709-89504a2e6abf.mp4|
-| Speaker3    |Male|Yes|Cubic a<0| https://user-images.githubusercontent.com/52312216/192617288-0121950b-b195-4b37-8260-5cb3d0d9cf57.mp4|
+| Speaker3    |Female|No|Concave|https://user-images.githubusercontent.com/52312216/192617135-4b0ee4d2-d330-4776-a22b-ba0033fcd8b1.mp4|
+| Speaker3    |Female|No|Cubic a>0| https://user-images.githubusercontent.com/52312216/192617270-cf3f4d59-d3bb-4c3b-9709-89504a2e6abf.mp4|
+| Speaker3    |Female|No|Cubic a<0| https://user-images.githubusercontent.com/52312216/192617288-0121950b-b195-4b37-8260-5cb3d0d9cf57.mp4|
 ||||||
 | Speaker4    |Male|Yes|Original Audio|https://user-images.githubusercontent.com/52312216/192622471-43c6e4ef-68c3-4f7d-9ead-6d02f686a503.mp4|
 | Speaker4    |Male|Yes|Flattened F0 Contour|https://user-images.githubusercontent.com/52312216/192622500-bb6706e3-98c5-4748-8343-f103f7fdb222.mp4|
@@ -38,10 +38,39 @@
 | Speaker4    |Male|Yes|Concave|https://user-images.githubusercontent.com/52312216/192622776-cb3b0d4a-aba7-4890-8c6d-1070eb918318.mp4|
 | Speaker4    |Male|Yes|Cubic a>0|https://user-images.githubusercontent.com/52312216/192622785-ffd96096-a2a0-45e0-b64c-b4bdf033d6b4.mp4|
 | Speaker4    |Male|Yes|Cubic a<0|https://user-images.githubusercontent.com/52312216/192622803-8e8022aa-be8d-49f4-b634-a749e15eda80.mp4|
+||||||
+| Speaker5    |Female|Yes|Original Audio|https://user-images.githubusercontent.com/52312216/192633731-dc1352e7-a5ab-4ef7-995e-a9eec02be583.mp4|
+| Speaker5    |Female|Yes|Flattened F0 Contour|https://user-images.githubusercontent.com/52312216/192633988-8477b993-1e6b-426f-8f70-e875543e93ff.mp4|
+| Speaker5    |Female|Yes|Increasing Linear|https://user-images.githubusercontent.com/52312216/192633804-138f4258-6c0c-4adc-a94e-abad80134fb6.mp4|
+| Speaker5    |Female|Yes|Decreasing Linear|https://user-images.githubusercontent.com/52312216/192633794-d78e97a6-a48e-4998-b78a-f0b8374af2e5.mp4|
+| Speaker5    |Female|Yes|Convex|https://user-images.githubusercontent.com/52312216/192633946-fab7e77a-202f-4a81-8d24-379eaf650eba.mp4|
+| Speaker5    |Female|Yes|Concave|https://user-images.githubusercontent.com/52312216/192633938-54fd80cd-891a-41bf-922e-e58f0eedee88.mp4|
+| Speaker5    |Female|Yes|Cubic a>0|https://user-images.githubusercontent.com/52312216/192633843-d96b2e75-7cf3-4f8b-b3e8-c1621a9d4623.mp4|
+| Speaker5    |Female|Yes|Cubic a<0|https://user-images.githubusercontent.com/52312216/192633894-8683f9cd-29d3-4b9e-8d6f-43981998dcdf.mp4|
+
+
+xiPwwVNpKX8jlPDMPfZlLLmIH6m618Su
+vxFUT6FzOkjoud4tBbdxI5wMkcfrWD87
+
+
+
 
 
 
 ### Medium Utterances
+| Label    | Gender|Transcript| Audio        |
+| -----------| -----------| ----------- | -----------| ----------- |
+|    1   |Male  | Queen Victoria｜https://user-images.githubusercontent.com/52312216/192652921-5400e6b9-a0ad-4fde-9451-be0d8cd4b401.mp4|
+|    1   |Female|Four hundred| https://user-images.githubusercontent.com/52312216/192652725-359e49da-46d3-41fe-8304-28ef2a108019.mp4|
+|    2   |Male| Four hundred|https://user-images.githubusercontent.com/52312216/192653464-434cb605-e502-4568-a79f-051702959fef.mp4|
+|    2   |Female|Three twenty four|https://user-images.githubusercontent.com/52312216/192652386-89efd708-46a7-42c7-abae-79f073c0f854.mp4|
+|    3   |Male   |Thomas **｜https://user-images.githubusercontent.com/52312216/192653901-05272a96-8af2-4454-9086-8ddd315d50b1.mp4|
+|    3   |Female|Seventeen O seven|https://user-images.githubusercontent.com/52312216/192652117-7d771587-0764-41e1-ada4-ebe033940af8.mp4|
+|    4   |Male|Seventeen O seven| https://user-images.githubusercontent.com/52312216/192651814-1c09c3bc-52fe-4189-81a9-a9e1e331f1c7.mp4|
+|    4   |Female|| https://user-images.githubusercontent.com/52312216/192651858-8bd4d5eb-9cbc-47a6-98d2-4fc07150f572.mp4|
+|    5   |Male   |July fourth | https://user-images.githubusercontent.com/52312216/192651663-321ad6b6-234e-46ae-8e38-d500f7561bbf.mp4|
+|    5   |Female |Three dollars and sixty eight cents | https://user-images.githubusercontent.com/52312216/192651619-c8938ad7-bf51-4e1e-a8c3-1277baf00ccb.mp4|
+
 
 
 ### Long Utterances
