@@ -12,14 +12,14 @@
 | Speaker1   |Male|No |Cubic a>0| https://user-images.githubusercontent.com/52312216/192604216-461dc56d-55d0-4154-9bfd-724a5be40538.mp4|
 | Speaker1   |Male|No |Cubic a<0| https://user-images.githubusercontent.com/52312216/192604239-864f8a76-4e14-46f1-ae22-be932017349f.mp4|
 ||||||
-| Speaker2    |Original Audio| https://user-images.githubusercontent.com/52312216/192614183-7f828d11-9177-491c-8954-540281fe4bb9.mp4|
-| Speaker2    |Flattened F0 Contour| https://user-images.githubusercontent.com/52312216/192613873-bb7bb0b5-6549-460f-b821-847e99445f38.mp4|
-| Speaker2    |Increasing Linear| https://user-images.githubusercontent.com/52312216/192613827-c8e0a501-5b95-4559-aebe-4573a069224d.mp4|
-| Speaker2    |Decreasing Linear| https://user-images.githubusercontent.com/52312216/192613846-d07f8db5-bea9-4a7a-85c3-1f4f2f4d2676.mp4|
-| Speaker2    |Convex|https://user-images.githubusercontent.com/52312216/192613933-9cd64547-7e7b-4d7e-aae0-55e45da97426.mp4|
-| Speaker2    |Concave| https://user-images.githubusercontent.com/52312216/192613944-87d049f6-ae2d-4d10-a5fa-a679bb7c4c46.mp4|
-| Speaker2    |Cubic a>0| https://user-images.githubusercontent.com/52312216/192613903-bf38eb99-8a12-443c-a247-df47376a636f.mp4|
-| Speaker2    |Cubic a<0| https://user-images.githubusercontent.com/52312216/192613916-e58a0d83-1542-4d67-9763-40691a8a008d.mp4|
+| Speaker2    |Female|No|Original Audio| https://user-images.githubusercontent.com/52312216/192614183-7f828d11-9177-491c-8954-540281fe4bb9.mp4|
+| Speaker2    |Female|No|Flattened F0 Contour| https://user-images.githubusercontent.com/52312216/192613873-bb7bb0b5-6549-460f-b821-847e99445f38.mp4|
+| Speaker2    |Female|No|Increasing Linear| https://user-images.githubusercontent.com/52312216/192613827-c8e0a501-5b95-4559-aebe-4573a069224d.mp4|
+| Speaker2    |Female|No|Decreasing Linear| https://user-images.githubusercontent.com/52312216/192613846-d07f8db5-bea9-4a7a-85c3-1f4f2f4d2676.mp4|
+| Speaker2   |Female|No|Convex|https://user-images.githubusercontent.com/52312216/192613933-9cd64547-7e7b-4d7e-aae0-55e45da97426.mp4|
+| Speaker2    |Female|No|Concave| https://user-images.githubusercontent.com/52312216/192613944-87d049f6-ae2d-4d10-a5fa-a679bb7c4c46.mp4|
+| Speaker2   |Female|No|Cubic a>0| https://user-images.githubusercontent.com/52312216/192613903-bf38eb99-8a12-443c-a247-df47376a636f.mp4|
+| Speaker2   |Female|No|Cubic a<0| https://user-images.githubusercontent.com/52312216/192613916-e58a0d83-1542-4d67-9763-40691a8a008d.mp4|
 
 ||||||
 | Speaker3    |Female|No|Original Audio| https://user-images.githubusercontent.com/52312216/192617794-8027ed9c-c3e3-40a4-8a23-00ef7c47ec6d.mp4|
