@@ -112,28 +112,3 @@ vxFUT6FzOkjoud4tBbdxI5wMkcfrWD87
 | Speaker14   | Female|Certain     |I intend to work out every day this summer.|https://user-images.githubusercontent.com/52312216/190537521-abda9a78-9282-4c69-acf6-98b8d00217b3.mp4|
 | Speaker14   | Female|Uncertain   |I intend to work out every day this summer.|https://user-images.githubusercontent.com/52312216/190537523-2af1a972-b0eb-4715-ab6b-c99b23f40219.mp4|
 | Speaker14   | Female|Neutral     |I intend to work out every day this summer.|https://user-images.githubusercontent.com/52312216/190537524-3cebdfd2-70e5-4ee5-8aa9-da707c241d6e.mp4|
-
-
-
-
-
-| Speaker1   | Certain     |The nearest planet to the sun is Mercury.|https://user-images.githubusercontent.com/52312216/190532769-15ab0217-965d-4ef2-95d9-a25e9c231504.mp4|
-| Speaker1   | Uncertain   |The nearest planet to the sun is Mercury.|https://user-images.githubusercontent.com/52312216/190532907-39971ab4-6c3f-48aa-85d8-e4c119013b60.mp4|
-| Speaker1   | Neutral     |The nearest planet to the sun is Mercury.|https://user-images.githubusercontent.com/52312216/190532923-40c77c16-deb7-4d92-b2a4-5d06d78c0d19.mp4|
-
-
-| Speaker6   | Certain     |I'm satisfied with this movie. |https://user-images.githubusercontent.com/52312216/190536249-c6fea84c-1f6c-49b3-a300-614a8c29c5a1.mp4|
-| Speaker6   | Uncertain   |I'm satisfied with this movie. |https://user-images.githubusercontent.com/52312216/190536280-31b9f7e4-77f6-4097-83cc-e16a7a0314a4.mp4|
-| Speaker6   | Neutral     |I'm satisfied with this movie. |https://user-images.githubusercontent.com/52312216/190536288-1946861e-b5de-4322-b2d9-b9181d36b2ac.mp4|
-| | | | |
-
-
-| | | | |
-| Speaker10   | Certain     |We will come back to this store again.|https://user-images.githubusercontent.com/52312216/190536998-0fd553f9-af75-4049-940d-7048fac4d3ce.mp4|
-| Speaker10   | Uncertain   |We will come back to this store again.|https://user-images.githubusercontent.com/52312216/190537000-cda89d00-a073-4895-8054-c7583d86f1d2.mp4|
-| Speaker10   | Neutral     |We will come back to this store again.|https://user-images.githubusercontent.com/52312216/190537001-5d7b1816-b091-4a39-a627-fd1317375dcc.mp4|
-
-| | | | |
-| Speaker12   | Certain     |They will donate ten dollars to Wikipedia.|https://user-images.githubusercontent.com/52312216/190537200-b79bf75f-88e5-4c81-99cb-70c275f70c4e.mp4|
-| Speaker12   | Uncertain   |They will donate ten dollars to Wikipedia.|https://user-images.githubusercontent.com/52312216/190537201-2d7d52b2-1a1c-47a6-a9dd-3faf6797dfab.mp4|
-| Speaker12   | Neutral     |They will donate ten dollars to Wikipedia.|https://user-images.githubusercontent.com/52312216/190537203-8cd5877d-d995-4058-b22a-220d6213432b.mp4|
