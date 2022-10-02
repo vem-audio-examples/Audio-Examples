@@ -47,15 +47,6 @@
 | Speaker5    |Female|Yes|Cubic a>0|https://user-images.githubusercontent.com/52312216/192633843-d96b2e75-7cf3-4f8b-b3e8-c1621a9d4623.mp4|
 | Speaker5    |Female|Yes|Cubic a<0|https://user-images.githubusercontent.com/52312216/192633894-8683f9cd-29d3-4b9e-8d6f-43981998dcdf.mp4|
 
-
-xiPwwVNpKX8jlPDMPfZlLLmIH6m618Su
-vxFUT6FzOkjoud4tBbdxI5wMkcfrWD87
-
-
-
-
-
-
 ## Medium Utterances
 | Label    | Gender|Transcript| Audio        |
 | -----------| -----------| ----------- | -----------|
@@ -70,10 +61,7 @@ vxFUT6FzOkjoud4tBbdxI5wMkcfrWD87
 |    5   |Male   |July fourth | https://user-images.githubusercontent.com/52312216/192651663-321ad6b6-234e-46ae-8e38-d500f7561bbf.mp4|
 |    5   |Female |Three dollars and sixty eight cents | https://user-images.githubusercontent.com/52312216/192651619-c8938ad7-bf51-4e1e-a8c3-1277baf00ccb.mp4|
 
-
-
 ## Long Utterances
-
 | Speaker    |Gender | Tone        | Transcript | Audio      |
 | -----------| ----------- | ----------- |----------- |----------- |
 | | | | |
