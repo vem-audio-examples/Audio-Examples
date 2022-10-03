@@ -58,7 +58,7 @@ We manipulated the F0 contour of neutral yes/no utterances to 7 shapes: flat, in
 |5|Male|Yes|https://user-images.githubusercontent.com/52312216/193608191-4b06eed8-305c-4f77-b375-350217d16c77.mp4|
 
 ## Medium Utterances
-| Label    | Gender|Transcript| Audio        |
+| Self-reported uncertainty (1-extremely uncertain, 5-extremely certain)| Gender|Transcript| Audio        |
 | -----------| -----------| ----------- | -----------|
 |    1   |Male  | Queen Victoria| https://user-images.githubusercontent.com/52312216/192652921-5400e6b9-a0ad-4fde-9451-be0d8cd4b401.mp4|
 |    1   |Female|Four hundred| https://user-images.githubusercontent.com/52312216/192652725-359e49da-46d3-41fe-8304-28ef2a108019.mp4|
