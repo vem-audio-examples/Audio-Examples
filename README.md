@@ -1,12 +1,12 @@
 # Audio Samples From Three Utterance Datasets
 ## Short Utterances
-| Speaker    | Gender|Transcript    | Audio        |
+| Self-reported uncertainty (1-extremely uncertain, 5-extremely certain)    | Gender|Transcript    | Audio        |
 | -----------| -----------| ----------- |  ----------- |
-
-
-
-
-
+|1|Male|Yes|https://user-images.githubusercontent.com/52312216/193607070-3fe0e48d-f3ef-4d51-8225-7faaed298155.mp4|
+|2|Female|No|https://user-images.githubusercontent.com/52312216/193607304-3e5db391-bbfa-4036-9856-aad9f8d8189e.mp4|
+|3|Female|Yes|https://user-images.githubusercontent.com/52312216/193607724-54b1cfb0-8bc7-44d9-bea8-ef133c3e001e.mp4|
+|4|Male|No|https://user-images.githubusercontent.com/52312216/193608579-a0dff733-fdc9-48ba-8e46-abf386913208.mp4|
+|5|Male|Yes|https://user-images.githubusercontent.com/52312216/193608191-4b06eed8-305c-4f77-b375-350217d16c77.mp4|
 
 
 ## Manipulate the F0 conotour neutral utterances to increasing linear, decreasing linear, convex, concave, cubic (a>0), and cubic (a<0)
