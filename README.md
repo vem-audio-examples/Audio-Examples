@@ -72,7 +72,7 @@ We manipulated the F0 contour of neutral yes/no utterances to 7 shapes: flat, in
 |    5   |Female |Three dollars and sixty eight cents | https://user-images.githubusercontent.com/52312216/192651619-c8938ad7-bf51-4e1e-a8c3-1277baf00ccb.mp4|
 
 ## Long Utterances
-| Speaker    |Gender | Tone        | Transcript | Audio      |
+| Speaker    |Gender | Tone (Certain and Uncertain)| Transcript | Audio      |
 | -----------| ----------- | ----------- |----------- |----------- |
 | | | | |
 | Speaker3   | Female|Certain     |The longest river is the Nile. |https://user-images.githubusercontent.com/52312216/190533888-91eafa8e-827b-430b-a0cc-895d771548a4.mp4|
@@ -86,11 +86,9 @@ We manipulated the F0 contour of neutral yes/no utterances to 7 shapes: flat, in
 | | | | |
 | Speaker7   | Female|Certain     |He plans to visit ten countries in Europe next year.|https://user-images.githubusercontent.com/52312216/190536421-7391d9b7-1883-4ae5-9eef-26cb684b6ee7.mp4|
 | Speaker7   | Female|Uncertain   |He plans to visit ten countries in Europe next year.|https://user-images.githubusercontent.com/52312216/190536436-b5eba97e-0f74-4177-bba7-2da16aa7c32c.mp4|
-
 | | | | |
 | Speaker8   | Male|Certain     |I intend to invite 20 friends to my birthday party.|https://user-images.githubusercontent.com/52312216/190536547-f4e8012c-8595-45a4-af2a-1b74e88d5805.mp4|
 | Speaker8   | Male|Uncertain   |I intend to invite 20 friends to my birthday party.|https://user-images.githubusercontent.com/52312216/190536548-425e1c1b-d8e4-46b4-adcc-9f4c01bd48ea.mp4|
-
 | | | | |
 | Speaker9   | Male|Certain     |He plans to visit ten countries in Europe next year.|https://user-images.githubusercontent.com/52312216/190536790-0a6fae65-975b-4815-8d07-129e72df664c.mp4|
 | Speaker9   | Male|Uncertain   |He plans to visit ten countries in Europe next year.|https://user-images.githubusercontent.com/52312216/190536791-35921fce-64ef-4260-8922-275be1f1664c.mp4|
