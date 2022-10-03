@@ -1,4 +1,5 @@
 ## F0 conotour manipualtion
+We manipulated the F0 contour of neutral yes/no utterances to 7 shapes: flat, increasing linear, decreasing linear, convex, concave, cubic(a>0), cubic(a<0).
 | Speaker    | Gender|Transcript|Manipulation    | Audio        |
 | -----------| -----------| ----------- | -----------| ----------- |
 | Speaker1    |Male|No|Original Neutral Audio| https://user-images.githubusercontent.com/52312216/192603133-1f391c6c-1adf-49ca-9d66-c34857fc622d.mp4|
