@@ -107,6 +107,6 @@ We manipulated the F0 contour of neutral yes/no utterances to 7 shapes: flat, in
 | Speaker13   | Female|Uncertain   |I want to try this new restaurant.|https://user-images.githubusercontent.com/52312216/190537344-c447848d-16e2-4c9b-acd8-75f8c477703a.mp4|
 | Speaker13   | Female|Neutral     |I want to try this new restaurant.|https://user-images.githubusercontent.com/52312216/190537345-4132f07a-4e6a-4c17-a72b-e63b853e4865.mp4|
 | | | | |
-| Speaker14   | Female|Certain     |I intend to work out every day this summer.|https://user-images.githubusercontent.com/52312216/190537521-abda9a78-9282-4c69-acf6-98b8d00217b3.mp4|
+| Speaker14   | Female|Certain     |I intend to work out every day this summer.|https://user-images.githubusercontent.com/52312216/190537524-3cebdfd2-70e5-4ee5-8aa9-da707c241d6e.mp4|
 | Speaker14   | Female|Uncertain   |I intend to work out every day this summer.|https://user-images.githubusercontent.com/52312216/190537523-2af1a972-b0eb-4715-ab6b-c99b23f40219.mp4|
-| Speaker14   | Female|Neutral     |I intend to work out every day this summer.|https://user-images.githubusercontent.com/52312216/190537524-3cebdfd2-70e5-4ee5-8aa9-da707c241d6e.mp4|
+| Speaker14   | Female|Neutral     |I intend to work out every day this summer.|https://user-images.githubusercontent.com/52312216/190537521-abda9a78-9282-4c69-acf6-98b8d00217b3.mp4|
