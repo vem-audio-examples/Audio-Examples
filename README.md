@@ -33,7 +33,7 @@ We manipulated the F0 contour of neutral yes/no utterances to 7 shapes: flat, in
 ||||||
 ||||||
 | Speaker4    |Male|Yes|Original Neutral Audio|https://user-images.githubusercontent.com/52312216/192622471-43c6e4ef-68c3-4f7d-9ead-6d02f686a503.mp4|
-| Speaker4    |Male|Yes|Flattened F0 Contour|https://user-images.githubusercontent.com/52312216/192622500-bb6706e3-98c5-4748-8343-f103f7fdb222.mp4|
+| Speaker4    |Male|Yes|Flat|https://user-images.githubusercontent.com/52312216/192622500-bb6706e3-98c5-4748-8343-f103f7fdb222.mp4|
 | Speaker4    |Male|Yes|Increasing Linear| https://user-images.githubusercontent.com/52312216/192622715-1ca1b2fd-9eed-4374-9536-d6553033c555.mp4|
 | Speaker4    |Male|Yes|Decreasing Linear|https://user-images.githubusercontent.com/52312216/192622733-826e700f-62d5-44e4-9ce8-b413af1074b7.mp4|
 | Speaker4    |Male|Yes|Convex|https://user-images.githubusercontent.com/52312216/192622763-3693b07b-b794-4a62-aca2-5fd155cc8a6c.mp4|
