@@ -75,12 +75,6 @@ We manipulated the F0 contour of neutral yes/no utterances to 7 shapes: flat, in
 | Speaker    |Gender | Tone (Certain and Uncertain)| Transcript | Audio      |
 | -----------| ----------- | ----------- |----------- |----------- |
 | | | | |
-| Speaker3   | Female|Certain     |The longest river is the Nile. |https://user-images.githubusercontent.com/52312216/190533888-91eafa8e-827b-430b-a0cc-895d771548a4.mp4|
-| Speaker3   | Female|Uncertain   |The longest river is the Nile. |https://user-images.githubusercontent.com/52312216/190533925-89c212c5-9052-4ba5-a71c-1e755f633157.mp4|
-| | | | |
-| Speaker4   | Female|Certain     |The longest river is the Nile. |https://user-images.githubusercontent.com/52312216/190533998-406f51da-265b-4f7e-a2a0-bf6a036d25fd.mp4|
-| Speaker4   |Female| Uncertain   |The longest river is the Nile. |https://user-images.githubusercontent.com/52312216/190534007-990a6049-922b-4200-ba6d-32556f90e546.mp4|
-| | | | |
 | Speaker5   | Male|Certain     |The longest river is the Nile. |https://user-images.githubusercontent.com/52312216/190534219-1f056760-c144-4408-8340-79c1c4147c2e.mp4|
 | Speaker5   | Male|Uncertain   |The longest river is the Nile. |https://user-images.githubusercontent.com/52312216/190534929-9a44f7bc-0f5e-46cb-924e-d95a0ce46a13.mp4|
 | | | | |
