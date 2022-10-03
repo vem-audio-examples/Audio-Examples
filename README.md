@@ -3,7 +3,7 @@ We manipulated the F0 contour of neutral yes/no utterances to 7 shapes: flat, in
 | Speaker    | Gender|Transcript|Manipulation    | Audio        |
 | -----------| -----------| ----------- | -----------| ----------- |
 | Speaker1    |Male|No|Original Neutral Audio| https://user-images.githubusercontent.com/52312216/192603133-1f391c6c-1adf-49ca-9d66-c34857fc622d.mp4|
-| Speaker1    |Male|No|Flattened F0 Contour| https://user-images.githubusercontent.com/52312216/192604105-b1833b99-f85f-4382-9bb8-df85a8c5335a.mp4|
+| Speaker1    |Male|No|Flat| https://user-images.githubusercontent.com/52312216/192604105-b1833b99-f85f-4382-9bb8-df85a8c5335a.mp4|
 | Speaker1    |Male|No|Increasing Linear| https://user-images.githubusercontent.com/52312216/192604157-25a1f935-3348-47a9-9c1e-8b4f8ffac7f3.mp4|
 | Speaker1   |Male|No|Decreasing Linear| https://user-images.githubusercontent.com/52312216/192604167-c4ae2b72-9012-43dc-9a61-63608102ecdc.mp4|
 | Speaker1   |Male|No |Convex| https://user-images.githubusercontent.com/52312216/192604185-f84ac156-4323-4d46-878b-d57e7d5a515e.mp4|
@@ -13,7 +13,7 @@ We manipulated the F0 contour of neutral yes/no utterances to 7 shapes: flat, in
 ||||||
 ||||||
 | Speaker2    |Female|No|Original Neutral Audio| https://user-images.githubusercontent.com/52312216/192614183-7f828d11-9177-491c-8954-540281fe4bb9.mp4|
-| Speaker2    |Female|No|Flattened F0 Contour| https://user-images.githubusercontent.com/52312216/192613873-bb7bb0b5-6549-460f-b821-847e99445f38.mp4|
+| Speaker2    |Female|No|Flat| https://user-images.githubusercontent.com/52312216/192613873-bb7bb0b5-6549-460f-b821-847e99445f38.mp4|
 | Speaker2    |Female|No|Increasing Linear| https://user-images.githubusercontent.com/52312216/192613827-c8e0a501-5b95-4559-aebe-4573a069224d.mp4|
 | Speaker2    |Female|No|Decreasing Linear| https://user-images.githubusercontent.com/52312216/192613846-d07f8db5-bea9-4a7a-85c3-1f4f2f4d2676.mp4|
 | Speaker2   |Female|No|Convex|https://user-images.githubusercontent.com/52312216/192613933-9cd64547-7e7b-4d7e-aae0-55e45da97426.mp4|
@@ -23,7 +23,7 @@ We manipulated the F0 contour of neutral yes/no utterances to 7 shapes: flat, in
 ||||||
 ||||||
 | Speaker3    |Female|No|Original Neutral Audio| https://user-images.githubusercontent.com/52312216/192617794-8027ed9c-c3e3-40a4-8a23-00ef7c47ec6d.mp4|
-| Speaker3    |Female|No|Flattened F0 Contour| https://user-images.githubusercontent.com/52312216/192617329-e1aa9360-dcbe-464a-acaf-5ef86cf3ac28.mp4|
+| Speaker3    |Female|No|Flat| https://user-images.githubusercontent.com/52312216/192617329-e1aa9360-dcbe-464a-acaf-5ef86cf3ac28.mp4|
 | Speaker3    |Female|No|Increasing Linear| https://user-images.githubusercontent.com/52312216/192617809-f708b814-2c07-4450-805e-67e5daebb962.mp4|
 | Speaker3    |Female|No|Decreasing Linear|https://user-images.githubusercontent.com/52312216/192617823-aefed610-671e-45ba-9f33-2e1e437a19ae.mp4|
 | Speaker3    |Female|No|Convex| https://user-images.githubusercontent.com/52312216/192617116-40ed0c62-4377-413e-a887-804d4a9daf65.mp4|
@@ -43,7 +43,7 @@ We manipulated the F0 contour of neutral yes/no utterances to 7 shapes: flat, in
 ||||||
 ||||||
 | Speaker5    |Female|Yes|Original Neutral Audio|https://user-images.githubusercontent.com/52312216/192633731-dc1352e7-a5ab-4ef7-995e-a9eec02be583.mp4|
-| Speaker5    |Female|Yes|Flattened F0 Contour|https://user-images.githubusercontent.com/52312216/192633988-8477b993-1e6b-426f-8f70-e875543e93ff.mp4|
+| Speaker5    |Female|Yes|Flat|https://user-images.githubusercontent.com/52312216/192633988-8477b993-1e6b-426f-8f70-e875543e93ff.mp4|
 | Speaker5    |Female|Yes|Increasing Linear|https://user-images.githubusercontent.com/52312216/192633804-138f4258-6c0c-4adc-a94e-abad80134fb6.mp4|
 | Speaker5    |Female|Yes|Decreasing Linear|https://user-images.githubusercontent.com/52312216/192633794-d78e97a6-a48e-4998-b78a-f0b8374af2e5.mp4|
 | Speaker5    |Female|Yes|Convex|https://user-images.githubusercontent.com/52312216/192633946-fab7e77a-202f-4a81-8d24-379eaf650eba.mp4|
