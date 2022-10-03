@@ -64,7 +64,7 @@ We manipulated the F0 contour of neutral yes/no utterances to 7 shapes: flat, in
 |    1   |Female|Four hundred| https://user-images.githubusercontent.com/52312216/192652725-359e49da-46d3-41fe-8304-28ef2a108019.mp4|
 |    2   |Male| Four hundred|https://user-images.githubusercontent.com/52312216/192653464-434cb605-e502-4568-a79f-051702959fef.mp4|
 |    2   |Female|Three twenty four|https://user-images.githubusercontent.com/52312216/192652386-89efd708-46a7-42c7-abae-79f073c0f854.mp4|
-|    3   |Male   |Thomas **|https://user-images.githubusercontent.com/52312216/192653901-05272a96-8af2-4454-9086-8ddd315d50b1.mp4|
+|    3   |Male   |Thomas Marshall|https://user-images.githubusercontent.com/52312216/192653901-05272a96-8af2-4454-9086-8ddd315d50b1.mp4|
 |    3   |Female|Seventeen O seven|https://user-images.githubusercontent.com/52312216/192652117-7d771587-0764-41e1-ada4-ebe033940af8.mp4|
 |    4   |Male|Seventeen O seven| https://user-images.githubusercontent.com/52312216/192651814-1c09c3bc-52fe-4189-81a9-a9e1e331f1c7.mp4|
 |    4   |Female|Bjorn Borg| https://user-images.githubusercontent.com/52312216/192651858-8bd4d5eb-9cbc-47a6-98d2-4fc07150f572.mp4|
