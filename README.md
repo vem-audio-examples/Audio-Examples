@@ -86,16 +86,4 @@ We manipulated the F0 contour of neutral yes/no utterances to 7 shapes: flat (us
 | | | | |
 | Speaker2   | Female|Certain     |He plans to visit ten countries in Europe next year.|https://user-images.githubusercontent.com/52312216/190536421-7391d9b7-1883-4ae5-9eef-26cb684b6ee7.mp4|
 | Speaker2   | Female|Uncertain   |He plans to visit ten countries in Europe next year.|https://user-images.githubusercontent.com/52312216/190536436-b5eba97e-0f74-4177-bba7-2da16aa7c32c.mp4|
-| | | | |
-| Speaker3   | Male|Certain     |I intend to invite 20 friends to my birthday party.|https://user-images.githubusercontent.com/52312216/190536547-f4e8012c-8595-45a4-af2a-1b74e88d5805.mp4|
-| Speaker3   | Male|Uncertain   |I intend to invite 20 friends to my birthday party.|https://user-images.githubusercontent.com/52312216/190536548-425e1c1b-d8e4-46b4-adcc-9f4c01bd48ea.mp4|
-| | | | |
-| Speaker4   | Male|Certain     |He plans to visit ten countries in Europe next year.|https://user-images.githubusercontent.com/52312216/190536790-0a6fae65-975b-4815-8d07-129e72df664c.mp4|
-| Speaker4  | Male|Uncertain   |He plans to visit ten countries in Europe next year.|https://user-images.githubusercontent.com/52312216/190536791-35921fce-64ef-4260-8922-275be1f1664c.mp4|
-| | | | |
-| Speaker5   | Female|Certain     |We will come back to this store again.|https://user-images.githubusercontent.com/52312216/190537095-8e2b37be-acb6-44df-b9dd-dcd2c4f90e7e.mp4|
-| Speaker5   | Female|Uncertain   |We will come back to this store again.|https://user-images.githubusercontent.com/52312216/190537098-836196d0-f6f5-4edd-bc89-fb44ec915935.mp4|
-| | | | |
-| Speaker6   | Female|Certain     |I want to try this new restaurant.|https://user-images.githubusercontent.com/52312216/190537343-490cb14c-d7a8-425d-a8cc-9738c1e01452.mp4|
-| Speaker6  | Female|Uncertain   |I want to try this new restaurant.|https://user-images.githubusercontent.com/52312216/190537344-c447848d-16e2-4c9b-acd8-75f8c477703a.mp4|
 
