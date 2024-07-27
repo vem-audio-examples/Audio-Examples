@@ -1,7 +1,5 @@
 # Audio Examples For "Amplifying Insights: Harnessing Voice Technology to Decode Customer Uncertainty in Marketing"
-
-## Audio Samples From Three Utterance Datasets
-## Short Utterances
+## Dataset 1
 | Self-reported uncertainty (1-extremely uncertain, 5-extremely certain)    | Gender|Transcript    | Audio        |
 | -----------| -----------| ----------- |  ----------- |
 |1|Male|Yes|https://user-images.githubusercontent.com/52312216/193607070-3fe0e48d-f3ef-4d51-8225-7faaed298155.mp4|
@@ -10,7 +8,7 @@
 |4|Male|No|https://user-images.githubusercontent.com/52312216/193608579-a0dff733-fdc9-48ba-8e46-abf386913208.mp4|
 |5|Male|Yes|https://user-images.githubusercontent.com/52312216/193608191-4b06eed8-305c-4f77-b375-350217d16c77.mp4|
 
-## Medium Utterances
+## Dataset 2
 | Self-reported uncertainty (1-extremely uncertain, 5-extremely certain)| Gender|Transcript| Audio        |
 | -----------| -----------| ----------- | -----------|
 |    1   |Male  | Queen Victoria| https://user-images.githubusercontent.com/52312216/192652921-5400e6b9-a0ad-4fde-9451-be0d8cd4b401.mp4|
@@ -24,7 +22,7 @@
 |    5   |Male   |July fourth | https://user-images.githubusercontent.com/52312216/192651663-321ad6b6-234e-46ae-8e38-d500f7561bbf.mp4|
 |    5   |Female |Three dollars and sixty eight cents | https://user-images.githubusercontent.com/52312216/192651619-c8938ad7-bf51-4e1e-a8c3-1277baf00ccb.mp4|
 
-## Long Utterances
+## Dataset 3
 | Speaker    |Gender | Tone (Certain and Uncertain)| Transcript | Audio      |
 | -----------| ----------- | ----------- |----------- |----------- |
 | | | | |
